@@ -1,0 +1,32 @@
+_repo: A-Declaration-of-the-Causes-which-mooved-the-chiefe-Commanders-of-the-Nauie-of-her-most-excel__18682
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: 'England and Wales. Sovereign (1558-1603 : Elizabeth I)'
+    gutenberg_agent_id: '38009'
+    url: http://www.gutenberg.org/2009/agents/38009
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2006-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philip II, King of Spain, 1527-1598'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Sources'
+- !lcc 'DA'
+title: "A Declaration of the Causes, which mooved the chiefe Commanders of the Nauie\
+  \ of her most excellent Maiestie the Queene of England, in their voyage and expedition\
+  \ for Portingal, to take and arrest in the mouth of the Riuer of Lisbone, certaine\
+  \ Shippes of corne and other prouisions of warre bound for the said Citie\r\nPrepared\
+  \ for the seruices of the King of Spaine, in the Ports and Prouinces within and\
+  \ about the Sownde, the 30. day of Iune, in the yeere of our Lord 1589. and of her\
+  \ Maiesties raigne the one and thirtie"
+url: http://www.gutenberg.org/ebooks/18682
